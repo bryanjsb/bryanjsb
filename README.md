@@ -1,34 +1,26 @@
 <h1 align="center">Hi 👋, I'm Bryan Sánchez Brenes</h1>
-<h3 align="center">I am a backend web developer.</h3>
+<h3 align="center">I am a Back-end web developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bryanjsb&label=Profile%20views&color=2abb84&style=flat" alt="bryanjsb" /> </p>
 
 
 
-- 🔭 I’m currently studying on [National University of Costa Rica](www.una.ac.cr)
+- 🔭 I’m currently studying on [National University of Costa Rica.](www.una.ac.cr)
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
+- 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS.**
 
-- 👯 I’m looking to collaborate on **Create an API Public**
+- 👯 I’m looking to collaborate on **Create an API Public.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bryanjsb](https://github.com/bryanjsb)
+- 👨‍💻 All of my projects are available at [bryanjsb.](https://github.com/bryanjsb)
 
-- 💬 Ask me about **Java, MySql, MongoDB, ExpressJS, ReactJS,NodeJS**
+- 💬 Ask me about **Java, MySql, MongoDB, ExpressJS, ReactJS, NodeJS.**
 
-- 📫 How to reach me **bryan.jsb.1801@gmail.com**
+- 📫 How to reach me **bryan.jsb.1801@gmail.com.**
 
-- ⚡ Fun fact **I think I Funny, empathic, trustworthy,curious**
+- ⚡ Fun fact **I think I Funny, empathic, trustworthy, curious.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/bryanjsb" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-      alt="bryanjsb"
-      height="30"
-      width="40"
-  /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/bryanjsb/" target="blank"
     ><img
       align="center"
@@ -38,8 +30,9 @@
       width="40"
   /></a>
 </p>
+</br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -170,10 +163,11 @@
     />
   </a>
 </p>
+</br></br>
 <!--/////////////////////////////////////////////////-->
-<p>
+<p align="center"> 
   <img
-    align="rigth"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanjsb&show_icons=true&theme=dark&title_color=3eb16a&locale=en&layout=compact"
     alt="bryanjsb"
   />
@@ -188,7 +182,7 @@
   />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=bryanjsb"
