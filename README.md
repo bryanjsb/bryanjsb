@@ -170,15 +170,16 @@
     />
   </a>
 </p>
-
+<!--/////////////////////////////////////////////////-->
 <p>
   <img
-    align="center"
+    align="rigth"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanjsb&show_icons=true&theme=dark&title_color=3eb16a&locale=en&layout=compact"
     alt="bryanjsb"
   />
 </p>
 
+<!--
 <p>
   &nbsp;<img
     align="center"
@@ -187,7 +188,7 @@
   />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=bryanjsb"
@@ -201,3 +202,4 @@
     alt="bryanjsb"
   />
 </p>
+-->
