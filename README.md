@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS.**
 
-- 👯 I’m looking to collaborate on **Create an API Public.**
-
 - 👨‍💻 All of my projects are available at [bryanjsb.](https://github.com/bryanjsb)
 
 - 💬 Ask me about **Java, MySql, MongoDB, ExpressJS, ReactJS, NodeJS.**
