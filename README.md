@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bryan Sánchez Brenes</h1>
-<h3 align="center">I am a Back-end web developer.</h3>
+<h1 align="center">Resume CV</h1>
+
+<h2 align="center">Hi 👋, I'm Bryan Sánchez Brenes. I'm a Back-end web developer.</h2>
+
 
 - 🔭 I’m currently studying on [National University of Costa Rica.](www.una.ac.cr)
 
