@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan Sánchez Brenes</h1>
 <h3 align="center">I am a Back-end web developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bryanjsb&label=Profile%20views&color=2abb84&style=flat" alt="bryanjsb" /> </p>
-
-
-
 - 🔭 I’m currently studying on [National University of Costa Rica.](www.una.ac.cr)
 
 - 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS.**
